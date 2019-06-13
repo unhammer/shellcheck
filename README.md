@@ -80,6 +80,8 @@ You can see ShellCheck suggestions directly in a variety of editors.
 
 * VSCode, through [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck).
 
+* Geany, builtin – in the "Build" menu select "Lint"
+
 * Most other editors, through [GCC error compatibility](shellcheck.1.md#user-content-formats).
 
 ### In your build or test suites
